@@ -1,5 +1,6 @@
 # !!! Gaussian Distribution (Normal Distribution)
-# ! note - dist. : distribution
+# also known as continuous distribution
+# ! note: dist. - distribution
 # loc: mean, scale: standard deviation, size: size
 
 from numpy import random
